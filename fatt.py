@@ -3,7 +3,7 @@
 
 def fattoriale(n):
     if n == 0:
-        return 1
+        return 3
     else:
         return n * fattoriale(n - 1);
 
